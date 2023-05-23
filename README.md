@@ -114,7 +114,7 @@ iOS개발자들에게 필요한 자료들을 정리하고 있는 중입니다.
 - Optional Chaining과 nil-coalescing operator(??)의 차이점과 사용 시 주의사항은 무엇인가요?
 - Swift에서 Async/Await 기능이 도입되기 전에, 비동기(Asynchronous) 작업을 처리하는 방법에는 어떤 것들이 있나요?
 - 타입 변환(Type Casting)과 다형성(Polymorphism)에 대해 설명해보세요.
-- Swift에서 타입 안전성(type safety)은 어떤 방식으로 보장되나요?
+- Swift에서 타입 안전성(type safety)은 어떤 방식으로 보장되나요?https://github.com/JongHyunLee84/iOS-interview-questions/issues/1#issue-1721825016
 
 ## ARC
 - ARC란 무엇인지 설명하시오.
