@@ -72,7 +72,7 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 - 성능 향상을 위해 어떤 디버깅 도구를 사용할 수 있나요? 각각의 디버깅 도구는 어떤 상황에서 사용하는 것이 좋나요?
 
 ## Swift
-- Swift에서 타입 안전성(type safety)은 어떤 방식으로 보장되나요? [Swift #1](../../issues/1)
+- Swift에서 타입 안전성(type safety)은 어떤 방식으로 보장되나요? [#1](../../issues/1)
 - struct와 class와 enum의 차이를 설명하시오.
 - class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
