@@ -72,6 +72,7 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 - 성능 향상을 위해 어떤 디버깅 도구를 사용할 수 있나요? 각각의 디버깅 도구는 어떤 상황에서 사용하는 것이 좋나요?
 
 ## Swift
+- Swift에서 타입 안전성(type safety)은 어떤 방식으로 보장되나요? [#1](../../issues/1)
 - struct와 class와 enum의 차이를 설명하시오.
 - class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
@@ -109,7 +110,7 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 - Optional Chaining과 nil-coalescing operator(??)의 차이점과 사용 시 주의사항은 무엇인가요?
 - Swift에서 Async/Await 기능이 도입되기 전에, 비동기(Asynchronous) 작업을 처리하는 방법에는 어떤 것들이 있나요?
 - 타입 변환(Type Casting)과 다형성(Polymorphism)에 대해 설명해보세요.
-- Swift에서 타입 안전성(type safety)은 어떤 방식으로 보장되나요? [#1](../../issues/1)
+
 
 ## ARC
 - ARC란 무엇인지 설명하시오.
