@@ -20,12 +20,13 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 - Optional 이란 무엇인지 설명하시오. [#2](../../issues/2)
 - - String은 왜 subscript로 접근이 안되는지 설명하시오. [#3](../../issues/3)
 - struct와 class와 enum의 차이를 설명하시오. [#4](../../issues/4)
+- Subscripts에 대해 설명하시오. [#5](../../issues/5)
 - class의 성능을 향상 시킬수 있는 방법들을 나열해보시오.
 - Copy On Write는 어떤 방식으로 동작하는지 설명하시오.
 - Convenience init에 대해 설명하시오.
 - AnyObject에 대해 설명하시오.
 - Struct 가 무엇이고 어떻게 사용하는지 설명하시오.
-- Subscripts에 대해 설명하시오.
+
 
 - instance 메서드와 class 메서드의 차이점을 설명하시오.
 - class 메서드와 static 메서드의 차이점을 설명하시오.
