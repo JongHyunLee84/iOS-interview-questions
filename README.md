@@ -18,7 +18,7 @@ From [JeaSungLEE/iOSInterviewquestions](https://github.com/JeaSungLEE/iOSIntervi
 ## Swift
 - Swift에서 타입 안전성(type safety)은 어떤 방식으로 보장되나요? [#1](../../issues/1)
 - Optional 이란 무엇인지 설명하시오. [#2](../../issues/2)
-- - String은 왜 subscript로 접근이 안되는지 설명하시오. [#3](../../issues/3)
+- String은 왜 subscript로 접근이 안되는지 설명하시오. [#3](../../issues/3)
 - struct와 class와 enum의 차이를 설명하시오. [#4](../../issues/4)
 - Subscripts에 대해 설명하시오. [#5](../../issues/5)
 - class 메서드와 static 메서드의 차이점을 설명하시오. [#6](../../issues/6)
